@@ -1,0 +1,15 @@
+node_modules
+dist
+*.blend1
+__pycache__
+
+# Rendered promo media (frames, videos) — gigabytes
+media/
+
+# In-house asset generators and promo tooling are not published
+tools/
+docs/ASSETS.md
+public/assets/audio/trailer_sad.ogg
+
+# Local editor / agent settings
+.claude/
